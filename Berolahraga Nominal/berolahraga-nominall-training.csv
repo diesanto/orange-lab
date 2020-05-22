@@ -1,0 +1,15 @@
+Outlook,Temperatur,Kelembaban,Angin,Keputusan
+cerah,panas,tinggi,tidak,Tidak Olahraga
+cerah,panas,tinggi,ya,Olahraga
+berawan,panas,tinggi,tidak,Olahraga
+hujan,sejuk,tinggi,tidak,Olahraga
+hujan,dingin,normal,tidak,Olahraga
+hujan,dingin,normal,ya,Tidak Olahraga
+berawan,dingin,normal,ya,Olahraga
+cerah,sejuk,tinggi,tidak,Tidak Olahraga
+cerah,dingin,normal,tidak,Olahraga
+hujan,sejuk,normal,tidak,Olahraga
+cerah,sejuk,normal,ya,Olahraga
+berawan,sejuk,tinggi,ya,Olahraga
+berawan,panas,normal,tidak,Olahraga
+hujan,sejuk,tinggi,ya,Tidak Olahraga
